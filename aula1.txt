@@ -1,0 +1,34 @@
+node executa requisições em uma única tred
+
+npm gerenciador de pacotes 
+
+onde usar o node.js -> em situações que ocorrem muitas requisições
+
+onde não usar-> em algoritmos complexos que exijam muita CPU
+
+criar um arquivo package.json
+
+npm init -y  -> para criar o json sem alterar nada
+
+
+eslint -> extensão
+
+executar meu node no terminal ->  node index.js
+
+adicionar uma biblioteca -> npm i prompt-sync
+
+nodejs.org -> instalar a versão 18
+
+
+só consigo usar import quando mudo as confgurações
+"type": "module" no package.json
+
+
+---------------------------------------------------
+
+Typescript
+
+-> adicionar o typescript ao projeto
+
+npm i-D typescript
+npx tsc --init --> configurações básicas
